@@ -9,7 +9,7 @@
     "ip": "LeWoMC.aternos.me",
     "port": 27768,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -20,14 +20,14 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "2009#2009"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
